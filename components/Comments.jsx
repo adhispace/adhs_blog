@@ -10,7 +10,7 @@ const Comments = ({slug}) => {
       console.log(res);
       setComments(res);
     });
-  }, []);
+  });
   
   return (
     <>
