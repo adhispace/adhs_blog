@@ -13,7 +13,7 @@ const Header = () => {
         <div className="inline-block w-full py-8 border-b border-blue-400">
             <Link href="/">
                 <span className="text-4xl font-bold text-white cursor-pointer">
-                    Adhi's Blog
+                    Adhs Blog
                 </span>
             </Link>
         </div>
